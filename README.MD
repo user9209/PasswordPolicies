@@ -14,4 +14,4 @@
 - Login at a device, e.g. Fritzbox
 - file / data / message encryption, e.g. veracrypt
 - service passwords, e.g. IMAP-Password
-- other logins, e.g.
+- other logins, pins and passwords, e.g. credit card pin
